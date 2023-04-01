@@ -34,12 +34,8 @@ open index.html in Google Chrome (recommended) or other internet browser to see 
 
 here is the screenshot for working page.
 
-    ```md
-    ![alt text](assets/images/01-html-css-git-homework-demo.png)
-    ```
 
-
-
+![working page look](assets/images/01-html-css-git-homework-demo.png)
 
 
 ## Features
@@ -49,13 +45,14 @@ A semantic element clearly describes its meaning to both the browser and the dev
 
 In HTML there are some semantic elements that can be used to define different parts of a web page:  
 
-<article>
-<aside>
-<footer>
-<header>
-<main>
-<nav>
-<section>
+
+* `<article>`
+* `<aside>`
+* `<footer>`
+* `<header>`
+* `<main>`
+* `<nav>`
+* `<section>`
 
 Reference: https://www.w3schools.com/html/html5_semantic_elements.asp
 
