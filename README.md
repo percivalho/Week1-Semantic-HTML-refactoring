@@ -67,4 +67,4 @@ open index.html in Google Chrom (recommended) or other internet browser to see t
 
 
 ## Credits and Copyright 
-Copytight 2023- Present. Percival Ho
+&copy; Copyright 2023 - Present. Percival Ho
