@@ -61,6 +61,19 @@ Reference: https://www.w3schools.com/html/html5_semantic_elements.asp
 
 open index.html in Google Chrom (recommended) or other internet browser to see the refactored website.
 
+## Resources
+
+Link to WebSite:
+
+https://percivalho.github.io/Week1-Semantic-HTML-refactoring/
+
+
+Link to GitHub repo:
+
+https://github.com/percivalho/Week1-Semantic-HTML-refactoring.git
+
+
+
 ## License 
 
 ![License badge](https://img.shields.io/badge/license-MIT-blue.svg)
